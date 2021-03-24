@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rekhavs213&label=Profile%20views&color=0e75b6&style=flat" alt="rekhavs213" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rekhavs213" alt="rekhavs213" /></a> </p>
+
 
 - 🔭 I’m currently working on **Automated Credit Approval System**
 
