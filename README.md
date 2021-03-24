@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rekha vs</h1>
+<h1 align="center">Hi 👋, I'm Rekha V S</h1>
 <h3 align="center">Data Science Student, Having Keen Interest in Machine Learning, Deep Learning, NLP.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rekhavs213&label=Profile%20views&color=0e75b6&style=flat" alt="rekhavs213" /> </p>
