@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Automated Credit Approval System**
+<!-- - 🔭 I’m currently working on **Automated Credit Approval System** -->
 
 - 🌱 I’m currently learning **Tensorflow, Keras ,Pytorch ,Java**
 
