@@ -17,8 +17,8 @@
 
 - 📫 How to reach me **rekhavsrh@gmail.com**
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left"> -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/rekha-v-s/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rekhavs" height="30" width="40" /></a>
 <a href="https://rekhavsrh.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="rekhavsrh@medium.com" height="30" width="40" /></a>
 </p>
