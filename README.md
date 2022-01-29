@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, NLP**
 
-- 📫 How to reach me **rekhavsrh@gmail.com**
+<!-- - 📫 How to reach me **rekhavsrh@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
